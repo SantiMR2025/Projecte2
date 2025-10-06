@@ -40,7 +40,7 @@ S’estima un temps mínim de **10 minuts** per poder **guardar treballs i apaga
 S’han seleccionat **3 models** que compleixen els requisits calculats:
 
 1. **SAI Sai Phasak 10000VA Batería Plomo-Calcio Autonomía Prolongada Doble Conversión y EPO**
-   ![SAI1]
+   ![SAI1](img/SAI1.png)
 2. **Phasak Gate Pro SAI Online LCD 10000VA**  
 
 3. **Salicru SLC-8000-TWIN PRO3 SAI Doble Conversión 8000VA 8000W**
