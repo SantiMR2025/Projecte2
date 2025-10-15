@@ -28,9 +28,21 @@ Pas6: Despres obrirem el fitxer de modificacio de group i posarem el seguent cod
 
 ![pas8](img/pas8.png)
 
-Pas7: Per ultim actualitzarem el grup i amb tot aixo farem que unicament els membres del grup pogui restablir la contrasenya.
+Pas7: actualitzarem el grup
 
 ![pas9](img/pas9.png)
+
+Pas8: 
+
+![pas10](img/pas10.png)
+
+pas9:
+
+![pas11](img/pas11.png)
+
+pas10:
+
+![pas12](img/pas12.png)
 
 
 
