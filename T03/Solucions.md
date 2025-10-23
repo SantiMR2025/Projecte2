@@ -32,15 +32,13 @@ Pas7: actualitzarem el grup
 
 ![pas9](img/pas9.png)
 
-Pas8: 
+Pas8: Entrem al fitxer /etc/grou i l'editem (fican --unrestricted derrara de ${CLASS})
 
 ![pas10](img/pas10.png)
 
-pas9:
-
 ![pas11](img/pas11.png)
 
-pas10:
+pas9: i per ultim actualitzariem el fitcher per que s'apliqui la configuracio que hem posat
 
 ![pas12](img/pas12.png)
 
